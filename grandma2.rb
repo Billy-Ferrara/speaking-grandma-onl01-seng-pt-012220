@@ -7,5 +7,5 @@ puts "I LOVE YOU TOO PUMPKIN!"
 else
   return "HUGH?! SPEAK UP, SONNY!"
   
-  speak_to_grandma
+  speak_to_grandma(phrase)
 end
