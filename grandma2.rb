@@ -1,4 +1,4 @@
-speak_to_grandma = "Hi Grandma."
+def speak_to_grandma(phrase)
 
 if speak_to_grandma == "".upcase
   puts "NO, NOT SINCE 1938!"
